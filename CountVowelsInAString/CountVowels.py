@@ -15,7 +15,7 @@ def vowel_count(string):
         # If alphabet is present
         # in set vowel
         if alphabet in vowel:
-            count = count + 1
+            count+=1
 
     # print(count)
     return count

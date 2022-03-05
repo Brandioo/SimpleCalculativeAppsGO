@@ -1,4 +1,3 @@
-
 from CountVowels import vowel_count
 
 def test_count_vowels():
