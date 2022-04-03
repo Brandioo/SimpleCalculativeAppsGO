@@ -1,0 +1,26 @@
+# read file content
+with open('emp_data.txt') as f:
+    file_content = f.readlines()
+
+# collect data
+data = {}
+for i, line in enumerate(file_content):
+    if i == 0:
+        # discard header
+        continue
+    index, person, age, job, salary, years = line.split(",")
+    job = job.strip()
+    salary = int(salary.strip())
+    if not job in data:
+        # create new empty list if this is the first time this job appears
+        data[job] = []
+    data[job].append(salary)
+
+print("data =", data)
+
+# calculate mean
+mean = {}
+for job in data:
+    mean[job] = sum(data[job]) / len(data[job])
+
+print("mean =", mean)

@@ -1,0 +1,1001 @@
+user_id,country
+100,Armenia
+101,Angola
+102,Martinique
+103,"Moldova, Republic of"
+104,Turkmenistan
+105,Timor-Leste
+106,Antarctica
+107,Albania
+108,"Korea, Republic of"
+109,Germany
+110,Reunion
+111,Azerbaijan
+112,Bermuda
+113,Nauru
+114,Hong Kong
+115,AndorrA
+116,Somalia
+117,Wallis and Futuna
+118,Niue
+119,Saint Vincent and the Grenadines
+120,"Virgin Islands, British"
+121,Cambodia
+122,Palau
+123,Hong Kong
+124,Northern Mariana Islands
+125,Yemen
+126,Antarctica
+127,Fiji
+128,Netherlands
+129,Bermuda
+130,"Taiwan, Province of China"
+131,Nauru
+132,Togo
+133,Mali
+134,Greece
+135,Tunisia
+136,Netherlands
+137,New Zealand
+138,Senegal
+139,Austria
+140,Greenland
+141,Central African Republic
+142,Senegal
+143,Colombia
+144,Malta
+145,Iceland
+146,Iraq
+147,Nicaragua
+148,Hungary
+149,Hungary
+150,Bolivia
+151,Solomon Islands
+152,Slovenia
+153,Samoa
+154,Tunisia
+155,Trinidad and Tobago
+156,Mozambique
+157,Bermuda
+158,Iceland
+159,"Moldova, Republic of"
+160,South Africa
+161,Albania
+162,Morocco
+163,Gabon
+164,"Moldova, Republic of"
+165,Viet Nam
+166,Serbia and Montenegro
+167,Romania
+168,Saint Kitts and Nevis
+169,"Micronesia, Federated States of"
+170,Isle of Man
+171,Tajikistan
+172,Burundi
+173,Argentina
+174,Zimbabwe
+175,"Tanzania, United Republic of"
+176,Lithuania
+177,Malawi
+178,Northern Mariana Islands
+179,Lithuania
+180,Kyrgyzstan
+181,Belize
+182,Viet Nam
+183,Zambia
+184,Canada
+185,Niger
+186,Burkina Faso
+187,Bahrain
+188,Namibia
+189,Guinea-Bissau
+190,Martinique
+191,Guyana
+192,"Moldova, Republic of"
+193,Cook Islands
+194,Liberia
+195,British Indian Ocean Territory
+196,"Taiwan, Province of China"
+197,Lesotho
+198,Yemen
+199,Guadeloupe
+200,Belgium
+201,Costa Rica
+202,Jamaica
+203,Georgia
+204,Congo
+205,"Virgin Islands, U.S."
+206,Canada
+207,Samoa
+208,Barbados
+209,Gibraltar
+210,Finland
+211,Fiji
+212,Vanuatu
+213,American Samoa
+214,Ghana
+215,"Korea, Democratic People""S Republic of"
+216,Costa Rica
+217,Peru
+218,Uruguay
+219,Gibraltar
+220,Kuwait
+221,Switzerland
+222,Venezuela
+223,Malawi
+224,"Virgin Islands, British"
+225,Luxembourg
+226,Argentina
+227,Tokelau
+228,"Taiwan, Province of China"
+229,Italy
+230,Cape Verde
+231,Greece
+232,Finland
+233,Norfolk Island
+234,Costa Rica
+235,"Virgin Islands, British"
+236,Malta
+237,Holy See (Vatican City State)
+238,Gabon
+239,Uganda
+240,Somalia
+241,Australia
+242,"Tanzania, United Republic of"
+243,United Kingdom
+244,Cameroon
+245,Northern Mariana Islands
+246,Croatia
+247,Uganda
+248,Liechtenstein
+249,Antigua and Barbuda
+250,United States
+251,French Polynesia
+252,Palau
+253,Armenia
+254,Brunei Darussalam
+255,French Southern Territories
+256,Zimbabwe
+257,South Georgia and the South Sandwich Islands
+258,Gibraltar
+259,Nauru
+260,Uzbekistan
+261,Kazakhstan
+262,Mauritania
+263,"Cote D""Ivoire"
+264,Saint Lucia
+265,Chile
+266,Bolivia
+267,Burundi
+268,"Cote D""Ivoire"
+269,Eritrea
+270,Burkina Faso
+271,Reunion
+272,Benin
+273,Somalia
+274,Åland Islands
+275,Fiji
+276,Vanuatu
+277,Botswana
+278,Burundi
+279,Croatia
+280,Saint Pierre and Miquelon
+281,Bulgaria
+282,Panama
+283,Antarctica
+284,Kiribati
+285,Gabon
+286,Greece
+287,Singapore
+288,Sierra Leone
+289,Eritrea
+290,France
+291,Uzbekistan
+292,Brazil
+293,Samoa
+294,"Tanzania, United Republic of"
+295,United States Minor Outlying Islands
+296,Czech Republic
+297,Latvia
+298,Venezuela
+299,Nauru
+300,Venezuela
+301,Kyrgyzstan
+302,Trinidad and Tobago
+303,Timor-Leste
+304,"Korea, Republic of"
+305,Myanmar
+306,Dominican Republic
+307,France
+308,Uzbekistan
+309,Svalbard and Jan Mayen
+310,Mayotte
+311,Suriname
+312,Bahrain
+313,Gibraltar
+314,Norway
+315,Germany
+316,Fiji
+317,Germany
+318,Aruba
+319,Sudan
+320,United States Minor Outlying Islands
+321,Dominica
+322,Slovenia
+323,French Guiana
+324,New Caledonia
+325,Netherlands Antilles
+326,Tokelau
+327,Guatemala
+328,Djibouti
+329,Guam
+330,Kuwait
+331,Turks and Caicos Islands
+332,Nepal
+333,Bangladesh
+334,Guam
+335,Malaysia
+336,Honduras
+337,Reunion
+338,Syrian Arab Republic
+339,Mali
+340,Somalia
+341,Uzbekistan
+342,Nicaragua
+343,Kenya
+344,Western Sahara
+345,South Georgia and the South Sandwich Islands
+346,Nepal
+347,Greece
+348,Israel
+349,Viet Nam
+350,Malawi
+351,Benin
+352,Suriname
+353,"Virgin Islands, U.S."
+354,Namibia
+355,Seychelles
+356,Mauritania
+357,Zambia
+358,Uganda
+359,Papua New Guinea
+360,Liberia
+361,Montserrat
+362,Anguilla
+363,Uzbekistan
+364,Niue
+365,Bermuda
+366,Zambia
+367,Israel
+368,Georgia
+369,Somalia
+370,Saint Helena
+371,Martinique
+372,Lebanon
+373,Guinea-Bissau
+374,Papua New Guinea
+375,Suriname
+376,Kiribati
+377,Guatemala
+378,Saudi Arabia
+379,Saudi Arabia
+380,Kenya
+381,Bhutan
+382,Faroe Islands
+383,Isle of Man
+384,Saint Kitts and Nevis
+385,"Iran, Islamic Republic Of"
+386,Comoros
+387,Guernsey
+388,Sri Lanka
+389,Eritrea
+390,Gibraltar
+391,Papua New Guinea
+392,Mongolia
+393,Venezuela
+394,"Virgin Islands, British"
+395,Guyana
+396,Åland Islands
+397,Seychelles
+398,South Georgia and the South Sandwich Islands
+399,Kazakhstan
+400,"Micronesia, Federated States of"
+401,Falkland Islands (Malvinas)
+402,Denmark
+403,New Caledonia
+404,Guernsey
+405,Tajikistan
+406,China
+407,Palau
+408,Nigeria
+409,Jamaica
+410,"Macedonia, The Former Yugoslav Republic of"
+411,Panama
+412,Ukraine
+413,Mauritius
+414,Slovenia
+415,Barbados
+416,Jersey
+417,Bahrain
+418,Bhutan
+419,Cook Islands
+420,Guernsey
+421,Kyrgyzstan
+422,Botswana
+423,Brazil
+424,Netherlands Antilles
+425,Cape Verde
+426,Northern Mariana Islands
+427,Peru
+428,Afghanistan
+429,Luxembourg
+430,Malawi
+431,Japan
+432,Åland Islands
+433,Timor-Leste
+434,Qatar
+435,Venezuela
+436,Jordan
+437,Gibraltar
+438,Suriname
+439,Botswana
+440,Faroe Islands
+441,Mozambique
+442,Kazakhstan
+443,Grenada
+444,Portugal
+445,Ireland
+446,Grenada
+447,Myanmar
+448,Sri Lanka
+449,Congo
+450,Singapore
+451,Papua New Guinea
+452,Falkland Islands (Malvinas)
+453,French Polynesia
+454,Oman
+455,Martinique
+456,New Caledonia
+457,Chile
+458,Samoa
+459,Cocos (Keeling) Islands
+460,"Tanzania, United Republic of"
+461,Saudi Arabia
+462,Saint Kitts and Nevis
+463,Brazil
+464,Cocos (Keeling) Islands
+465,China
+466,RWANDA
+467,Uganda
+468,Netherlands
+469,Syrian Arab Republic
+470,Turkey
+471,Austria
+472,Marshall Islands
+473,Uruguay
+474,Senegal
+475,Barbados
+476,Mauritania
+477,Albania
+478,Honduras
+479,Armenia
+480,Guadeloupe
+481,Kyrgyzstan
+482,"Korea, Republic of"
+483,"Taiwan, Province of China"
+484,Anguilla
+485,Benin
+486,Australia
+487,Guinea
+488,Guernsey
+489,Martinique
+490,Finland
+491,Morocco
+492,Netherlands Antilles
+493,Cambodia
+494,Zimbabwe
+495,Germany
+496,Indonesia
+497,Philippines
+498,"Cote D""Ivoire"
+499,Jordan
+500,Nauru
+501,Swaziland
+502,Martinique
+503,Cambodia
+504,Poland
+505,Saint Kitts and Nevis
+506,Australia
+507,RWANDA
+508,Russian Federation
+509,Guyana
+510,Marshall Islands
+511,Denmark
+512,Estonia
+513,Armenia
+514,Croatia
+515,Malta
+516,Holy See (Vatican City State)
+517,Saint Kitts and Nevis
+518,Gambia
+519,Brunei Darussalam
+520,Brunei Darussalam
+521,Germany
+522,Malawi
+523,Netherlands Antilles
+524,Guinea
+525,South Georgia and the South Sandwich Islands
+526,Kiribati
+527,Malaysia
+528,Maldives
+529,Israel
+530,Slovakia
+531,Denmark
+532,Botswana
+533,Maldives
+534,American Samoa
+535,Angola
+536,Israel
+537,Congo
+538,Saint Kitts and Nevis
+539,Guyana
+540,Bangladesh
+541,Greece
+542,"Cote D""Ivoire"
+543,"Micronesia, Federated States of"
+544,Liberia
+545,Burkina Faso
+546,Morocco
+547,Saudi Arabia
+548,Brunei Darussalam
+549,New Zealand
+550,Ethiopia
+551,Norway
+552,Peru
+553,Sri Lanka
+554,Guam
+555,Congo
+556,Qatar
+557,Cambodia
+558,Iraq
+559,Germany
+560,Luxembourg
+561,Iceland
+562,Malawi
+563,Isle of Man
+564,Kuwait
+565,Swaziland
+566,Bahamas
+567,Iceland
+568,Georgia
+569,Saint Pierre and Miquelon
+570,Liechtenstein
+571,Cambodia
+572,Cape Verde
+573,Greece
+574,Sierra Leone
+575,Samoa
+576,Turkmenistan
+577,Iceland
+578,Australia
+579,Antigua and Barbuda
+580,Ukraine
+581,Martinique
+582,Palau
+583,Tonga
+584,Bouvet Island
+585,Czech Republic
+586,Hungary
+587,Panama
+588,Sao Tome and Principe
+589,Nigeria
+590,Benin
+591,Slovakia
+592,Bouvet Island
+593,Tunisia
+594,Uzbekistan
+595,Saint Helena
+596,Uzbekistan
+597,Suriname
+598,United Arab Emirates
+599,Azerbaijan
+600,Honduras
+601,"Palestinian Territory, Occupied"
+602,Nepal
+603,Nauru
+604,Saint Kitts and Nevis
+605,Turkmenistan
+606,AndorrA
+607,Bhutan
+608,Cameroon
+609,Congo
+610,"Korea, Democratic People""S Republic of"
+611,Guinea
+612,Tunisia
+613,Ukraine
+614,French Polynesia
+615,Poland
+616,Spain
+617,Bosnia and Herzegovina
+618,Austria
+619,Brazil
+620,Armenia
+621,Turkey
+622,Paraguay
+623,Ukraine
+624,Gambia
+625,Bouvet Island
+626,Swaziland
+627,Australia
+628,Hungary
+629,Gabon
+630,Swaziland
+631,Liechtenstein
+632,Christmas Island
+633,Belarus
+634,Mayotte
+635,Albania
+636,"Lao People""S Democratic Republic"
+637,El Salvador
+638,"Virgin Islands, British"
+639,Malaysia
+640,Bouvet Island
+641,New Zealand
+642,Mexico
+643,Yemen
+644,Georgia
+645,Holy See (Vatican City State)
+646,Brazil
+647,Russian Federation
+648,Cocos (Keeling) Islands
+649,Peru
+650,Morocco
+651,United States
+652,Honduras
+653,"Korea, Democratic People""S Republic of"
+654,"Korea, Democratic People""S Republic of"
+655,Anguilla
+656,Ghana
+657,Afghanistan
+658,Aruba
+659,Jamaica
+660,Uganda
+661,Sierra Leone
+662,Switzerland
+663,"Palestinian Territory, Occupied"
+664,Barbados
+665,El Salvador
+666,Viet Nam
+667,Cook Islands
+668,"Virgin Islands, U.S."
+669,"Macedonia, The Former Yugoslav Republic of"
+670,Papua New Guinea
+671,Romania
+672,Egypt
+673,Fiji
+674,United Kingdom
+675,Somalia
+676,Tajikistan
+677,Kyrgyzstan
+678,Namibia
+679,Angola
+680,Reunion
+681,Nauru
+682,Malta
+683,France
+684,Finland
+685,Croatia
+686,Israel
+687,Burundi
+688,United Arab Emirates
+689,Algeria
+690,Nicaragua
+691,Romania
+692,Finland
+693,Cape Verde
+694,Cameroon
+695,Algeria
+696,Switzerland
+697,Senegal
+698,Russian Federation
+699,Bahamas
+700,Poland
+701,Switzerland
+702,San Marino
+703,"Palestinian Territory, Occupied"
+704,Puerto Rico
+705,Greenland
+706,Slovakia
+707,Argentina
+708,"Micronesia, Federated States of"
+709,Central African Republic
+710,Dominica
+711,Antarctica
+712,Uganda
+713,Barbados
+714,Peru
+715,Botswana
+716,Cook Islands
+717,Tokelau
+718,China
+719,Palau
+720,Oman
+721,Mongolia
+722,Myanmar
+723,Bhutan
+724,Antarctica
+725,Åland Islands
+726,South Africa
+727,Kiribati
+728,Anguilla
+729,Morocco
+730,French Polynesia
+731,India
+732,Canada
+733,"Micronesia, Federated States of"
+734,China
+735,Viet Nam
+736,Georgia
+737,Hungary
+738,Uganda
+739,Norway
+740,Saint Vincent and the Grenadines
+741,Turks and Caicos Islands
+742,Yemen
+743,Congo
+744,Timor-Leste
+745,Mauritania
+746,China
+747,Sri Lanka
+748,Hong Kong
+749,Martinique
+750,Ghana
+751,French Polynesia
+752,Benin
+753,Qatar
+754,Mauritius
+755,Guinea
+756,Burkina Faso
+757,Tunisia
+758,Grenada
+759,Latvia
+760,Nicaragua
+761,Libyan Arab Jamahiriya
+762,"Moldova, Republic of"
+763,Western Sahara
+764,"Korea, Republic of"
+765,Saint Kitts and Nevis
+766,"Cote D""Ivoire"
+767,RWANDA
+768,Northern Mariana Islands
+769,San Marino
+770,Latvia
+771,Spain
+772,"Taiwan, Province of China"
+773,India
+774,Turkey
+775,Afghanistan
+776,Lithuania
+777,Falkland Islands (Malvinas)
+778,Maldives
+779,"Korea, Republic of"
+780,Mozambique
+781,Tunisia
+782,Croatia
+783,Nauru
+784,Comoros
+785,Gambia
+786,Bosnia and Herzegovina
+787,Greenland
+788,China
+789,Nepal
+790,Djibouti
+791,Belize
+792,Libyan Arab Jamahiriya
+793,Paraguay
+794,Mozambique
+795,"Tanzania, United Republic of"
+796,Yemen
+797,United Arab Emirates
+798,Bulgaria
+799,"Palestinian Territory, Occupied"
+800,AndorrA
+801,Pakistan
+802,Latvia
+803,Chile
+804,San Marino
+805,Djibouti
+806,Saint Kitts and Nevis
+807,Madagascar
+808,Panama
+809,Albania
+810,Lesotho
+811,Senegal
+812,Germany
+813,Togo
+814,United Arab Emirates
+815,Luxembourg
+816,Tuvalu
+817,Botswana
+818,Jordan
+819,Iceland
+820,Libyan Arab Jamahiriya
+821,Congo
+822,Solomon Islands
+823,Kyrgyzstan
+824,Libyan Arab Jamahiriya
+825,Saint Lucia
+826,Mozambique
+827,Vanuatu
+828,Bulgaria
+829,Turks and Caicos Islands
+830,Estonia
+831,Norfolk Island
+832,Slovakia
+833,Gambia
+834,Paraguay
+835,Swaziland
+836,Belize
+837,"Lao People""S Democratic Republic"
+838,Somalia
+839,Ecuador
+840,El Salvador
+841,Thailand
+842,Heard Island and Mcdonald Islands
+843,Luxembourg
+844,Portugal
+845,Afghanistan
+846,Australia
+847,Jamaica
+848,Somalia
+849,Saint Lucia
+850,Liechtenstein
+851,Yemen
+852,Philippines
+853,Mayotte
+854,Honduras
+855,French Guiana
+856,Chad
+857,Zimbabwe
+858,Uzbekistan
+859,"Cote D""Ivoire"
+860,United States Minor Outlying Islands
+861,Botswana
+862,Bulgaria
+863,Tunisia
+864,"Congo, The Democratic Republic of the"
+865,Ecuador
+866,Wallis and Futuna
+867,Grenada
+868,Lebanon
+869,Estonia
+870,Sierra Leone
+871,Azerbaijan
+872,Norway
+873,Czech Republic
+874,Morocco
+875,"Congo, The Democratic Republic of the"
+876,Libyan Arab Jamahiriya
+877,Marshall Islands
+878,Cameroon
+879,Cambodia
+880,Switzerland
+881,Myanmar
+882,Cyprus
+883,Antarctica
+884,Lesotho
+885,French Guiana
+886,Monaco
+887,Argentina
+888,Norfolk Island
+889,Guernsey
+890,Mexico
+891,Aruba
+892,Lesotho
+893,"Cote D""Ivoire"
+894,Gambia
+895,Dominican Republic
+896,American Samoa
+897,Namibia
+898,Niger
+899,Turkey
+900,Brunei Darussalam
+901,Estonia
+902,Benin
+903,Spain
+904,Mauritania
+905,Finland
+906,Barbados
+907,South Africa
+908,"Micronesia, Federated States of"
+909,Afghanistan
+910,Bahamas
+911,Maldives
+912,Honduras
+913,Niger
+914,Sudan
+915,Serbia and Montenegro
+916,Sudan
+917,Bahrain
+918,Suriname
+919,Turkey
+920,Cook Islands
+921,Barbados
+922,France
+923,Belarus
+924,Switzerland
+925,Poland
+926,Pitcairn
+927,Saint Kitts and Nevis
+928,Libyan Arab Jamahiriya
+929,Palau
+930,Romania
+931,Turkmenistan
+932,Turks and Caicos Islands
+933,Australia
+934,Algeria
+935,Seychelles
+936,French Guiana
+937,Lesotho
+938,Saint Pierre and Miquelon
+939,United Arab Emirates
+940,Palau
+941,Burkina Faso
+942,United States
+943,Jordan
+944,Zimbabwe
+945,South Georgia and the South Sandwich Islands
+946,Palau
+947,Botswana
+948,Jordan
+949,Reunion
+950,Belgium
+951,Haiti
+952,Mozambique
+953,Myanmar
+954,Jersey
+955,Malta
+956,Estonia
+957,Eritrea
+958,United States Minor Outlying Islands
+959,Solomon Islands
+960,Heard Island and Mcdonald Islands
+961,Suriname
+962,Sao Tome and Principe
+963,Serbia and Montenegro
+964,Sweden
+965,Northern Mariana Islands
+966,Hong Kong
+967,Swaziland
+968,Saint Kitts and Nevis
+969,South Africa
+970,Fiji
+971,Panama
+972,Uzbekistan
+973,Antigua and Barbuda
+974,Finland
+975,Lithuania
+976,Georgia
+977,Georgia
+978,France
+979,Peru
+980,Japan
+981,Bolivia
+982,Malawi
+983,Iraq
+984,Pitcairn
+985,Saint Vincent and the Grenadines
+986,Tajikistan
+987,United States
+988,Kuwait
+989,Nigeria
+990,Somalia
+991,Algeria
+992,"Cote D""Ivoire"
+993,Papua New Guinea
+994,Reunion
+995,Maldives
+996,Macao
+997,Cocos (Keeling) Islands
+998,Colombia
+999,Lebanon
+1000,Botswana
+1001,Jamaica
+1002,Saint Vincent and the Grenadines
+1003,Slovenia
+1004,Chile
+1005,Guernsey
+1006,Bahamas
+1007,"Tanzania, United Republic of"
+1008,"Virgin Islands, U.S."
+1009,Kazakhstan
+1010,Sudan
+1011,Zimbabwe
+1012,Tokelau
+1013,Nauru
+1014,Åland Islands
+1015,Dominica
+1016,"Taiwan, Province of China"
+1017,Kiribati
+1018,"Palestinian Territory, Occupied"
+1019,"Iran, Islamic Republic Of"
+1020,Brazil
+1021,"Korea, Democratic People""S Republic of"
+1022,Northern Mariana Islands
+1023,Papua New Guinea
+1024,Honduras
+1025,Seychelles
+1026,Poland
+1027,Poland
+1028,Ireland
+1029,"Virgin Islands, British"
+1030,Sweden
+1031,Cayman Islands
+1032,British Indian Ocean Territory
+1033,Tonga
+1034,British Indian Ocean Territory
+1035,Albania
+1036,Netherlands Antilles
+1037,Malaysia
+1038,Pakistan
+1039,Niue
+1040,Romania
+1041,United Arab Emirates
+1042,Tuvalu
+1043,Morocco
+1044,Kenya
+1045,French Polynesia
+1046,Poland
+1047,French Guiana
+1048,Indonesia
+1049,Svalbard and Jan Mayen
+1050,Belarus
+1051,Uzbekistan
+1052,Wallis and Futuna
+1053,Chad
+1054,Greenland
+1055,Nauru
+1056,Mozambique
+1057,Djibouti
+1058,Oman
+1059,New Zealand
+1060,Martinique
+1061,Germany
+1062,Palau
+1063,Puerto Rico
+1064,Mauritius
+1065,Guatemala
+1066,Heard Island and Mcdonald Islands
+1067,Tajikistan
+1068,Angola
+1069,Wallis and Futuna
+1070,Solomon Islands
+1071,Montserrat
+1072,Bhutan
+1073,AndorrA
+1074,Turkmenistan
+1075,Turkey
+1076,Japan
+1077,Aruba
+1078,Ethiopia
+1079,India
+1080,Yemen
+1081,Cameroon
+1082,Puerto Rico
+1083,Mozambique
+1084,Norway
+1085,Iceland
+1086,Algeria
+1087,Tokelau
+1088,Egypt
+1089,Congo
+1090,Myanmar
+1091,Sudan
+1092,Poland
+1093,Malta
+1094,San Marino
+1095,Algeria
+1096,Burkina Faso
+1097,Afghanistan
+1098,Kenya
+1099,Saint Kitts and Nevis
