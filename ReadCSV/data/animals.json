@@ -1,0 +1,26 @@
+[
+    {
+        "race": "bulldog",
+        "name": "sparky",
+        "age": 2,
+        "category": "",
+        "is_vaccinated": true,
+        "owner": null,
+        "owner_data": {
+            "preview_users": [
+                {
+                    "name": "sokol"
+                }
+            ]
+
+        }
+    },
+    {
+        "race": "border colly",
+        "name": "lessie",
+        "age": 40,
+        "is_vaccinated": false,
+        "owner": "someone"
+    }
+
+]
