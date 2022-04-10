@@ -22,3 +22,5 @@ def swap(list_of_elements: list, el1: int, el2: int):
 
 
 print(swap([1, 2, 3, 4], 0, 1))
+
+Ok#
